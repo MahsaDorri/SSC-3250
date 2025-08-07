@@ -1,3 +1,6 @@
+# Drive Failure Prediction (HDD vs SSD)
+
+This project aims to predict early failure in storage devices (HDD and SSD) using machine learning models trained on operational logs and SMART attributes. The system detects patterns that indicate potential disk failures, enabling proactive maintenance and reducing downtime.
 
 ---
 
